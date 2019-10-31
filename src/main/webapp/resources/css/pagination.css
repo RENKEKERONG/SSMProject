@@ -1,0 +1,113 @@
+@charset "utf-8";
+.pageWrap{text-align: center;}
+.pages {
+	display: inline-block;
+}
+.pages #Pagination {
+  float: left;
+  overflow: hidden;
+}
+.pages #Pagination .pagination {
+  height: 40px;
+  text-align: right;
+  font-family: \u5b8b\u4f53,Arial;
+}
+.pages #Pagination .pagination a,
+.pages #Pagination .pagination span {
+  float: left;
+  display: inline;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  border-right: none;
+  background: #f6f6f6;
+  color: #666666;
+  font-family: \u5b8b\u4f53,Arial;
+  font-size: 14px;
+  cursor: pointer;
+}
+.pages #Pagination .pagination .current {
+  background: #4DC2E9;
+  color: #fff;
+}
+.pages #Pagination .pagination .prev,
+.pages #Pagination .pagination .next {
+  float: left;
+  /*padding: 11px 13px;*/
+  min-width: 80px;
+  text-align: center;
+  border: 1px solid #e6e6e6;
+  background: #f6f6f6;
+  color: #666666;
+  cursor: pointer;
+}
+.pages #Pagination .pagination .prev i,
+.pages #Pagination .pagination .next i {
+  display: inline-block;
+  width: 4px;
+  height: 11px;
+  margin-right: 5px;
+  background: url(../images/icon.fw.png) no-repeat;
+}
+.pages #Pagination .pagination .prev {
+  border-right: none;
+}
+.pages #Pagination .pagination .prev i {
+  background-position: -144px -1px;
+  *background-position: -144px -4px;
+}
+.pages #Pagination .pagination .next i {
+  background-position: -156px -1px;
+  *background-position: -156px -4px;
+}
+.pages #Pagination .pagination .pagination-break {
+  /*padding: 11px 5px;*/
+  border: none;
+  border-left: 1px solid #e6e6e6;
+  background: none;
+  cursor: default;
+}
+.pages .searchPage {
+  float: left;
+  /*padding: 8px 0;*/
+ padding-top: 20px;
+  
+}
+.pages .searchPage .page-sum {
+  padding: 0 13px;
+  color: #999999;
+  font-family: \u5b8b\u4f53,Arial;
+  font-size: 14px;
+}
+.pages .searchPage .page-go {
+  /*padding: 8px 0;*/
+  color: #999999;
+  font-family: \u5b8b\u4f53,Arial;
+  font-size: 14px;
+  /*padding: 10px 0\9;
+  *padding: 6px 0;*/
+}
+.pages .searchPage .page-go input {
+  width: 35px;
+  height: 30px;
+  margin: 0 5px;
+  text-align: center;
+  border: 1px solid #e4e4e4;
+}
+.pages .searchPage .page-btn {
+  margin: 9px 0 5px 5px;
+  padding: 7px 12px;
+  width: 35px !important;
+  background: #4DC2E9;
+  border-radius: 2px;
+  color: #ffffff;
+  font-family: Arial, 'Microsoft YaHei';
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.pages .searchPage .page-btn:hover{
+  background-color:#1e9cc7
+}

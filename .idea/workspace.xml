@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SSMProject:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="675e3441-dd93-4121-92a7-f0e2a1a0de67" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/css/icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/css/vueStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/fonts/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/browser-polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/image/add_mg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/axios/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/browser-polyfill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/browser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/draggable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/kt-select-tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/kt-select-tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/lodash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/theme-chalk/fonts/element-icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/theme-chalk/fonts/element-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/theme-chalk/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/element-ui-2.8.2/vueStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/data-dynamic.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/router_dynamic_loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/backend/storage_tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/dhtmlxgantt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/dhtmlxgantt.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/dhtmlxgantt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_auto_scheduling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_click_drag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_critical_path.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_csp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_fullscreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_grouping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_keyboard_navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_marker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_multiselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_overlay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_quick_info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_smart_rendering.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/ext/dhtmlxgantt_undo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_jp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_kr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/locale/locale_ua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_broadway.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_broadway.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_contrast_black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_contrast_black.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_contrast_white.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_contrast_white.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_material.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_meadow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_meadow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_skyblue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_skyblue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_terrace.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/codebase/skins/dhtmlxgantt_terrace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/01_basic_init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/02_load_json.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/03_load_xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/04_save_rest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/06_touch_forced.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/07_jquery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/08_explicit_time_range.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/09_backward_compatibility.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/10_fixed_size.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/11_clickable_links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/12_localization.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/13_project_duration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/14_reinitializtion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/15_connector_json_enddate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/16_projects_and_milestones.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/17_bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/18_backward_planning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/19_tasks_without_dates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/01_initialization/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/01_quickinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/02_tooltip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/03_critical_path.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/04_grid_resize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/05_today_line.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/06_dynamic_loading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/07_managing_grid_columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/08_tasks_grouping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/09_multiselection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/10_tasks_grouping_multilevel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/11_full_screen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/12_auto_scheduling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/13_smart_rendering.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/14_undo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/16_keyboard_navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/17_keyboard_navigation_cell.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/18_linked_tasks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/19_constraints_scheduling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/20_backwards_scheduling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/21_overlay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/22_tooltip_api.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/23_click_drag_splittask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/24_click_drag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/25_click_drag_select_by_drag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/02_extensions/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/01_multiple_scales.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/02_month_days.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/03_full_year.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/04_days.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/05_dynamic_scales.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/06_custom_scales.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/07_minutes_scale.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/08_scale_autoconfig.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/09_skip_weekends.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/10_working_hours.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/11_select_column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/12_year_quarters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/13_zoom_to_fit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/14_scale_zoom_by_wheelmouse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/03_scales/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/01_outer_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/02_custom_tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/03_link_styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/04_task_styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/05_tree_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/06_highlight_weekend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/07_progress_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/08_templates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/09_html_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/10_context_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/11_split_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/12_custom_task_type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/13_autosize_container.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/14_deadline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/15_baselines.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/16_inline_task_colors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/17_classic_gantt_look.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/18_subtasks_displaying.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/19_task_type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/20_message_types.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/21_open_split_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/common/deadline_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/04_customization/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/01_lightbox_customization.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/02_checkbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/02_progress_lightbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/02_radio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/03_validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/04_custom_editor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/05_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/06_custom_button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/07_time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/08_parent_selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/09_years_selector_range.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/10_progress_slider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/11_datepicker_for_lightbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/12_select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/13_resources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/14_jquery_multiselect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/common/v_complete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/05_lightbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/01_default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/02_default_lightbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/03_skyblue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/04_meadow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/05_broadway.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/06_dynamic_skin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/07_high_contrast_black.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/08_high_contrast_white.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/09_material.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/06_skins/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/01_builtin_sorting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/02_branch_ordering.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/03_filtering.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/04_custom_sorting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/05_sort_api.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/06_without_grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/07_custom_buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/08_drag_between_levels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/09_wbs_column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/10_scrollable_grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/11_inline_edit_basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/12_inline_edit_key_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/13_custom_mapping.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/14_branch_ordering_highlight.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/07_grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/01_dnd_events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/02_constraints.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/03_validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/04_limit_project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/05_limit_drag_dates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/06_export.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/07_export_styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/08_export_other.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/09_export_store.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/10_performance_tweaks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/11_project_structure.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/12_fit_task_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/13_highlight_drag_position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/14_critical_tasks_expanding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/15_show_dates_on_drag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/16_dynamic_progress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/17_show_task_slack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/18_load_from_mpp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/19_draggable_projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/21_load_from_excel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/22_data_processor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/common/excel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/common/ms-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/08_api/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/01_working_hours_per_day.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/02_working_days.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/03_exclude_holidays.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/04_custom_workday_duration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/05_adjust_to_worktime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/06_task_calendars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/07_resource_calendars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/08_project_calendars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/09_worktime/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/10_layout/01_rightside_columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/10_layout/02_resource_panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/10_layout/03_scale_at_bottom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/10_layout/04_rtl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/10_layout/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/10_layout/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/01_assigning_resources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/02_resource_calendars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/03_break_down_by_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/04_resource_usage_diagram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/05_resource_usage_templates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/06_assign_multiple_owners.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/07_assign_multiple_resources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/08_resource_usage_groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/09_resource_histogram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/10_resource_histogram_workload_percents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/11_resource_histogram_display_tasks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/12_work_and_material_resources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/common/jquery_multiselect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/common/jquery_multiselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/common/resource_filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/11_resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/20_multiple/01_basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/20_multiple/03_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/20_multiple/05_jquery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/20_multiple/06_export.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/20_multiple/07_keyboard_navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/20_multiple/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/DemoProject.mpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/DemoProject.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/constraint-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/controls_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/customstyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/data_baselines.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/data_end_dates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/data_extra.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/data_large.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/data_start_end_dates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/dhxmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/docs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/dump.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/loaddata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/olddata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/resource_construction_materials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/resource_project_assignments.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/resource_project_assignments_percents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/resource_project_construction.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/resource_project_multiple_owners.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/resource_project_single_resource.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/resource_project_single_resource_diagram.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/about.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/about_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/bug_reporting.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/bug_reporting_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/close_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/copy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/copy_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/cut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/cut_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/help.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/help_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/new.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/new_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/open.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/open_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/page_setup.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/page_setup_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/paste.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/paste_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/print_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/redo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/redo_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/save.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/save_as.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/save_as_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/save_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/select_all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/select_all_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/undo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/sample_images/undo_dis.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/snippets/dhx_file_dnd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/snippets/dhx_file_dnd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/snippets/multiselect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/common/testdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/samples/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/gantt_trial/whatsnew.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_flat_10_000000_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-icons_228ef1_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-icons_ef8c08_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-icons_ffd27a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/jquery-ui-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery-ui/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/jquery.1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/photoviewer/photoviewer.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/photoviewer/photoviewer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/photoviewer/photoviewer.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/photoviewer/photoviewer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/photoviewer/photoviewer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/photoviewer/photoviewer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/vue-photo-preview/skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/plugins/vue-photo-preview/vue-photo-preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/BSHTemplate.xlsm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/ItemInfoCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/ItemInfoTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/ItemInfoUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/PartImportTemp.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/RepairSpareSafe.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/RepairSpareSafeCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/RepairSpareSafeTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/RepairSpareSafeUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/WorkOrder.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/WorkOrderCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/WorkOrderCNSchedule.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/WorkOrderTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/WorkOrderTWSchedule.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/WorkOrderUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/WorkOrderUSSchedule.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/bomlifeCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/bomlifeTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/bomlifeUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/cpscmxEchart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/mjscmxEchart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/order.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/orderCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/orderTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/orderUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/part.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/part.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/partCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/partTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/partUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/po.xlsm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/productInfoCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/productInfoTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/productInfoUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/repairPriceCN.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/repairPriceTW.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/repairPriceUS.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/sbjdl_cztj_mEchart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/sbjdltjEchart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/template/sczkb_m.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/vue.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="65" column="54" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/learn/dao/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>com.user.query.model.User</find>
+      <find>Base_Column_List</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.spring.learn.model.User</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/learn/com/spring/learn/dao/user.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/learn/com/spring/learn/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/UserMapping.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/Spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/db.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/Spring-service.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/learn/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/learn/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/learn/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/test.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spring/learn/controller/FirstController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSMDEMO Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSMDEMO Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/SSMProject_war.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/SSMProject_war_exploded.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="13" />
+    <option name="y" value="5" />
+    <option name="width" value="1440" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pexetech\SSMDEMO\src\main\webapp" />
+      <recent name="C:\Users\temp\IdeaProjects\SSMDEMO\src\main\resources\com" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.spring.learn.com.spring" />
+      <recent name="com.spring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pexetech\SSMDEMO\src\main\resources" />
+      <recent name="E:\pexetech\SSMDEMO\src" />
+      <recent name="E:\pexetech\SSMDEMO\src\main\webapp" />
+      <recent name="E:\pexetech\SSMDEMO\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\temp\IdeaProjects\SSMDEMO\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.57" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8089/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="SSMProject:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_SSMDEMO" />
+        <option name="HTTP_PORT" value="8089" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="14311" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSMProject:war exploded" />
+          <artifact name="SSMProject:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="ssm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.67" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="SSMProject:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSMDEMO_3" />
+        <option name="HTTP_PORT" value="8099" />
+        <option name="JNDI_PORT" value="1094" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="14311" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SSMProject:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675e3441-dd93-4121-92a7-f0e2a1a0de67" name="Default" comment="" />
+      <created>1495430669122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495430669122</updated>
+      <workItem from="1495430675137" duration="4101000" />
+      <workItem from="1495435008169" duration="2027000" />
+      <workItem from="1561431657041" duration="3277000" />
+      <workItem from="1561434975061" duration="1169000" />
+      <workItem from="1572499782474" duration="3242000" />
+      <workItem from="1572528478780" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14805000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Web" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32267037" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5006954" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32879046" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32823366" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295129" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295129" />
+      <window_info anchor="right" id="Palette" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.23925501" />
+      <window_info id="Structure" order="4" weight="0.25" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.32795697" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39784947" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Application Servers" order="9" weight="0.32879046" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3293011" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.3295129" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" order="4" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/pay/wxPay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20148" selection-start-line="3" selection-start-column="20148" selection-end-line="3" selection-end-column="20148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/common.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/assets/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/assets/js/vip/vipList.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="64" column="66" selection-start-line="64" selection-start-column="66" selection-end-line="64" selection-end-column="66" />
+          <folding>
+            <element signature="e#1525#1541#0" expanded="true" />
+            <element signature="e#1579#1592#0" expanded="true" />
+            <element signature="e#1635#1649#0" expanded="true" />
+            <element signature="e#1692#1710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/learn/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/learn/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/vue.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="65" column="54" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/learn/controller/FirstController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spring/learn/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SSMProject:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (SSMDEMO)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SSMDEMO</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
